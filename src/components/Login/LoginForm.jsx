@@ -66,7 +66,7 @@ const LoginForm = () => {
                     controlId="formEmail"
                   >
                     <BootstrapForm.Label>
-                      Email or User name
+                      Email 
                     </BootstrapForm.Label>
                     <Field
                       name="email"
